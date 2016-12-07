@@ -1,0 +1,11 @@
+	Comercial Ventas Y Reventas
+Nombre: JUAN
+Ciudad: LOJA
+-----------------------------------
+Producto	Cantidad	Precio
+Azúcar		2	3.00
+Arroz		2	5.00
+-----------------------------------
+	Subtotal: 8.00
+	IVA 14: 1.12
+	Total: 9.12
